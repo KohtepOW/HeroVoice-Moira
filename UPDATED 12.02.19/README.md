@@ -1,0 +1,1 @@
+Newer HeroVoice version for Moira, all files need to be checked and renamed.
